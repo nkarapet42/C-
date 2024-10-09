@@ -1,0 +1,14 @@
+C:\Users\narek\source\repos\IntershipC#\IntershipC#\bin\Debug\net8.0\IntershipC#.exe
+C:\Users\narek\source\repos\IntershipC#\IntershipC#\bin\Debug\net8.0\IntershipC#.deps.json
+C:\Users\narek\source\repos\IntershipC#\IntershipC#\bin\Debug\net8.0\IntershipC#.runtimeconfig.json
+C:\Users\narek\source\repos\IntershipC#\IntershipC#\bin\Debug\net8.0\IntershipC#.dll
+C:\Users\narek\source\repos\IntershipC#\IntershipC#\bin\Debug\net8.0\IntershipC#.pdb
+C:\Users\narek\source\repos\IntershipC#\IntershipC#\obj\Debug\net8.0\IntershipC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narek\source\repos\IntershipC#\IntershipC#\obj\Debug\net8.0\IntershipC#.AssemblyInfoInputs.cache
+C:\Users\narek\source\repos\IntershipC#\IntershipC#\obj\Debug\net8.0\IntershipC#.AssemblyInfo.cs
+C:\Users\narek\source\repos\IntershipC#\IntershipC#\obj\Debug\net8.0\IntershipC#.csproj.CoreCompileInputs.cache
+C:\Users\narek\source\repos\IntershipC#\IntershipC#\obj\Debug\net8.0\IntershipC#.dll
+C:\Users\narek\source\repos\IntershipC#\IntershipC#\obj\Debug\net8.0\refint\IntershipC#.dll
+C:\Users\narek\source\repos\IntershipC#\IntershipC#\obj\Debug\net8.0\IntershipC#.pdb
+C:\Users\narek\source\repos\IntershipC#\IntershipC#\obj\Debug\net8.0\IntershipC#.genruntimeconfig.cache
+C:\Users\narek\source\repos\IntershipC#\IntershipC#\obj\Debug\net8.0\ref\IntershipC#.dll
